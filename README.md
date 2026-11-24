@@ -54,34 +54,71 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Lista de transmissão diária no WhatsApp para chamada e validação de jogos, com foco em futebol.
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Montei dois atalhos: um para gerar a mensagem diária da lista de transmissão (com foco em futebol) e outro para organizar meus estudos noturnos de tecnologia. O que fica fixo são as regras que não mudam (como tom de voz, limite de tamanho, divisão do tempo de estudo e cuidados de segurança), e o que muda a cada uso são os dados do dia ou da noite, como jogos, horários e tema de estudo.
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+Atue como um especialista em comunicação direta e clara para atendimento via WhatsApp.
+
+Tarefa: Crie uma mensagem curta e atrativa para minha lista de transmissão diária, convidando clientes a validarem palpites nos jogos do dia.
+
+Regras fixas:
+- Foco principal em futebol (outros esportes entram apenas se eu informar como exceção).
+- Linguagem simples, amigável, energética e direta ao ponto.
+- Use emojis com moderação para destacar os jogos e horários.
+- Inclua uma chamada para ação (CTA) clara no final para enviarem seus jogos para validação.
+- Texto curto, ideal para leitura rápida no celular (máximo de 10 linhas).
+- Não faça promessas de ganho garantido e não peça nem exponha dados sensíveis.
+
+Dados de hoje (o que muda):
+- Principais jogos de futebol e horários: [INSERIR JOGOS E HORÁRIOS DE HOJE]
+- Horário limite para validação: [INSERIR HORÁRIO]
+- Destaque ou observação do dia: [INSERIR SE HOUVER, OU "NENHUM"]
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+Atue como um mentor de tecnologia didático e objetivo, focado em quem está construindo base sólida na área.
+
+Tarefa: Organize minha sessão de estudos de hoje à noite de forma prática e sem enrolação.
+
+Regras fixas:
+- Linguagem simples, como se estivesse explicando para um iniciante dedicado.
+- Divida o tempo disponível em: 1) Resumo teórico direto (30%), 2) Exemplo prático do dia a dia (40%) e 3) Exercício rápido de fixação (30%).
+- Evite textos longos demais; use tópicos curtos.
+
+Dados da noite (o que muda):
+- Assunto/tema de tecnologia de hoje: [INSERIR TEMA]
+- Tempo disponível hoje à noite: [INSERIR TEMPO, EX: 1H30]
+- Meu nível atual no assunto: [EX: DO ZERO / JÁ VI O BÁSICO]
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+Preciso delegar uma tarefa recorrente para você, mas quero que você me apresente o PLANO antes de executar qualquer coisa. Espere minha aprovação do plano para gerar o resultado final.
+
+- Objetivo: Criar um fluxo simples e reutilizável para montar a mensagem diária da lista de transmissão no WhatsApp, convidando clientes a validarem palpites nos jogos do dia.
+- Contexto: Atuo de forma autônoma no atendimento diário de validação de jogos e preciso de mensagens rápidas, claras e diretas para enviar todos os dias antes do fechamento.
+- Recursos: Meu modelo de atalho da mensagem diária, a fonte de dados informada e os jogos e horários do dia.
+- Limites: Foco principal em futebol (outros esportes entram apenas se eu informar como exceção); não inventar jogos, horários ou informações; não prometer ganho garantido; manter a mensagem curta (até 10 linhas) para leitura fácil no celular; não incluir nem pedir dados sensíveis.
+- Critério de sucesso: Ter um passo a passo prático de uso diário + um rascunho pronto da mensagem de futebol, revisado e validado por mim antes de usar.
+
+Primeiro, mostre apenas o seu PLANO de execução e aguarde minha confirmação antes de prosseguir.
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+<img width="1264" height="711" alt="image" src="https://github.com/user-attachments/assets/8b696f26-0eb1-45ce-ac51-7c6b37e9e0c3" />
+Além de acrescentar o horário de validação, eu indiquei o site para fonte de dados.
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+<img width="1318" height="960" alt="image" src="https://github.com/user-attachments/assets/c93ed06f-73e3-4636-ab83-943507d56d6a" />
+Conferi cada trecho do resultado gerado e validei se o horário limite, a fonte de dados e as regras do atalho foram cumpridos antes de usar.
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Com os atalhos e a delegação com plano, ficou mais rápido montar a mensagem diária com foco em futebol sem perder tempo do zero, mantendo o controle de revisar tudo antes de enviar; o atalho de estudos noturnos de tecnologia já ficou pronto para eu usar nas próximas noites.
